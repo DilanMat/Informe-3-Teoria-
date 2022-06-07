@@ -431,6 +431,8 @@ Para la tarjeta de circuito mostrada en la figura determine la resistencia entre
 
 5. Video
 
+https://youtu.be/_fKY5IO8h5w
+
 6.	CONCLUSIONES
 
 •	Los conceptos leídos en el capítulo 5 y 6 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el como aprender a calcular los voltajes y las corrientes en un circuito en serie y paralelo aplicando la ley de Ohm y a la ves las leyes de Kirchhoff, por lo que concluimos que estos temas van de la mano y hay que revisar muy a fondo.
