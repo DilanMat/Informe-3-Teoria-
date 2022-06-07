@@ -195,7 +195,9 @@ SECCIÓN 5–6 Ley del voltaje de Kirchhoff
 
 34. Encuentre R1, R2 y R3 en la figura.
 
+
 <img width="269" alt="image" src="https://user-images.githubusercontent.com/104999420/172272011-7de18a96-ef76-4a1f-a18f-e345a641faff.png">
+
 
 36. Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la siguiente figura para cada posición del interruptor.
 
@@ -217,7 +219,7 @@ SECCIÓN 5–7 Divisores de voltaje
 
 <img width="243" alt="image" src="https://user-images.githubusercontent.com/104999420/172272663-82fb78c1-9842-4809-8f30-b5b4418036ca.png">
 
-42. En cada punto de la figura, determine el voltaje con respecto al lado negativo de la batería.
+42.En cada punto de la figura, determine el voltaje con respecto al lado negativo de la batería.
 
 ![image](https://user-images.githubusercontent.com/104999420/172272708-b6b80d2c-b528-4650-83c9-47204ab2bb03.png)
 
