@@ -221,6 +221,7 @@ SECCIÓN 5–7 Divisores de voltaje
 
 42.En cada punto de la figura, determine el voltaje con respecto al lado negativo de la batería.
 
+
 ![image](https://user-images.githubusercontent.com/104999420/172272708-b6b80d2c-b528-4650-83c9-47204ab2bb03.png)
 
 <img width="368" alt="image" src="https://user-images.githubusercontent.com/104999420/172272717-f9fd37cd-8ed2-4a27-925d-d7f738b6c8b4.png">
@@ -428,7 +429,9 @@ Para la tarjeta de circuito mostrada en la figura determine la resistencia entre
 
 <img width="417" alt="image" src="https://user-images.githubusercontent.com/104999420/172284112-b645b889-82ae-4d15-9b1a-239dea5449e4.png">
 
-5.	CONCLUSIONES
+5. Video
+
+6.	CONCLUSIONES
 
 •	Los conceptos leídos en el capítulo 5 y 6 del libro de Floyd fueron muy interesantes ya que trataron temas muy fundamentales para la electrónica, el como aprender a calcular los voltajes y las corrientes en un circuito en serie y paralelo aplicando la ley de Ohm y a la ves las leyes de Kirchhoff, por lo que concluimos que estos temas van de la mano y hay que revisar muy a fondo.
 
@@ -436,7 +439,7 @@ Para la tarjeta de circuito mostrada en la figura determine la resistencia entre
 
 •	 Haciendo uso de los conceptos de un circuito en serie y un circuito en paralelo se fue resolviendo de manera correcta los problemas planteados en los capítulos 5 y 6 de Floyd ya que en cada circuito se tiene que aplicar una resolución diferente y por eso hay que saber muy cada concepto de estos, en especial la lay de Ohm y las Leyes de Kirchhoff que son las que se utilizaron para resolver los ejercicios por lo que al tener un claro concepto de cada ley y hacer un buen uso de las formulas hace que los ejercicios sean más fáciles de resolver.
 
-6.	BLIBIOGRAFÍA
+7.	BLIBIOGRAFÍA
 
 Floyd, T. L. (2007). Principios de Circuitos Electronicos. Mexico: Pearson educación.
 
